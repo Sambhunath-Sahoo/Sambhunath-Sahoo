@@ -54,7 +54,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambhunath-Sahoo&theme=default" />
 </a>
 
-<h2> My Blog Posts </h2>
+<!-- <h2> My Blog Posts </h2> -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
