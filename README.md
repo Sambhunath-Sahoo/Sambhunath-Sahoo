@@ -3,9 +3,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on React ,Redux , Next.js
+- 🔭 I’m currently working on Frontend Development using Reactjs.
 
-- 🌱 I’m currently learning Web Application Development 
+- 🌱 I’m currently learning MERN Stack. 
 
 - 👯 I’m looking to collaborate on Projects , Tech Articles 
 
