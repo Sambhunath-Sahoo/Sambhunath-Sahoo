@@ -1,3 +1,2 @@
-![Quote](https://github-readme-quotes.herokuapp.com/quote)
-
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
 
