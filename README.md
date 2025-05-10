@@ -19,5 +19,4 @@
 
 ## 📫 Let's Connect
 - 📍 [LinkedIn](https://linkedin.com/in/sams25)
-- 🌐 [Portfolio](https://github.com/Sambhunath-Sahoo)
 - ✉️ sambhu05357@gmail.com
