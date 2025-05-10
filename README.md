@@ -12,7 +12,7 @@
 **Backend:** Spring Boot, REST APIs, Microservices, Laravel (Lumen)  
 **Frontend:** Vue.js, React.js, Redux  
 **Databases:** MySQL, PostgreSQL, MongoDB, SingleStore  
-**Cloud & DevOps:** AWS (EC2, S3), Docker, Firebase, CI/CD  
+**Cloud & DevOps:** AWS, Docker, Firebase, CI/CD  
 **Tools:** Git, IntelliJ, Postman, Linux, JUnit, Mockito
 
 <!-- Add more project summaries here -->
