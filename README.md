@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sams
 
-🚀 Full Stack Software Engineer with 3+ years of experience building scalable SaaS applications using **Spring Boot**, **Vue.js**, and **AWS**.
+🚀 Full Stack Software Engineer with 3+ years of experience building scalable SaaS applications using **Spring Boot**, **Vue.js**, **React.js**, and **AWS**.
 
 - 💻 Currently working at a Startup, contributing to system architecture, microservices migration, and search optimization.
 - 🔍 Passionate about **backend development**, **system design**, and performance engineering.
