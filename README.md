@@ -17,6 +17,18 @@
 
 <!-- Add more project summaries here -->
 
+
+**📈 Contribution Graph**
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambhunath-Sahoo&theme=github-compact" width="85%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sambhunath-Sahoo&style=flat-square&color=brightgreen" alt="GitHub Profile Views" />
+</p>
+
+
 ## 📫 Let's Connect
 - 📍 [LinkedIn](https://linkedin.com/in/sams25)
 - ✉️ sambhu05357@gmail.com
