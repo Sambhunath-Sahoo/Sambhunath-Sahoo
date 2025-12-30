@@ -30,5 +30,5 @@
 
 
 ## 📫 Let's Connect
-- 📍 [LinkedIn](https://linkedin.com/in/sams25)
+<!-- - 📍 [LinkedIn](https://linkedin.com/in/sams25) -->
 - ✉️ sambhu05357@gmail.com
